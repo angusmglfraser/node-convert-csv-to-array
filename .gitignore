@@ -17,4 +17,4 @@ package-lock.json
 .idea/
 
 # babel transformed
-lib
+# lib
